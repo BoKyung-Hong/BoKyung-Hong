@@ -1,5 +1,7 @@
 ## 🙋‍♀️
 ![보경님's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoKyung-Hong&show_icons=true)
+
+## 🏆 알고리즘
 ### 💚 백준
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=BoKyoung&theme=light)](https://solved.ac/hbk491/)
 
