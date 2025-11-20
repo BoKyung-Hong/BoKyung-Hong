@@ -1,6 +1,6 @@
 ## 🙋‍♀️
 ![보경님's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoKyung-Hong&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hbk491)](https://solved.ac/hbk491/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bokyoung)](https://solved.ac/bokyoung/)
 [📝 백준 문제 풀이 코드](https://github.com/BoKyung-Hong/Algorithm)
 
 ## 💻 기술 스택
