@@ -3,10 +3,22 @@
 ### 💚 백준
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hbk491)](https://solved.ac/hbk491/)
 
-[📝 백준 문제 풀이 코드](https://github.com/BoKyung-Hong/Algorhythm)
-
 ### 💙 프로그래머스
 [![프로그래머스](https://img.shields.io/badge/Programmers-문제풀이-blue?style=flat&logo=programmers&logoColor=white)](https://github.com/BoKyung-Hong/Algorhythm/tree/main/프로그래머스)
+
+📂 [알고리즘 문제 풀이 저장소 보러가기](https://github.com/BoKyung-Hong/Algorhythm)
+
+## 🏆 알고리즘
+
+### 백준 Solved.ac
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hbk491)](https://solved.ac/hbk491/)
+
+### 프로그래머스
+[![Programmers](https://img.shields.io/badge/Programmers-문제풀이중-00C73C?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACKSURBVHgBjZIxDoAgDEVbFxfv4O4dPIl38Q6sLqQ2JCEQ/5D0JX+gLQUhxBhzALgB3EEIIUScZVkGIURx1RdCCLXW0jmHvu/RdR2cc1BKQWuNlBKEEJRSQkoBpRSEEFBKIaUE5xyEENBao+s6dF0H7z2stTDGwBgDYwyMMTDGwBgDYwyc/mWt/QC3OSWO6sVGXgAAAABJRU5ErkJggg==&logoColor=white)](https://github.com/BoKyung-Hong/Algorhythm/tree/main/프로그래머스)
+
+---
+
+📂 **전체 알고리즘 저장소**: [Algorhythm](https://github.com/BoKyung-Hong/Algorhythm)
 
 ## 💻 기술 스택
 **Backend**
