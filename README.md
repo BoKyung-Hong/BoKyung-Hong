@@ -1,8 +1,12 @@
 ## 🙋‍♀️
 ![보경님's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoKyung-Hong&show_icons=true)
+### 💚 백준
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hbk491)](https://solved.ac/hbk491/)
 
 [📝 백준 문제 풀이 코드](https://github.com/BoKyung-Hong/Algorhythm)
+
+### 💙 프로그래머스
+[![프로그래머스](https://img.shields.io/badge/Programmers-문제풀이-blue?style=flat&logo=programmers&logoColor=white)](https://github.com/BoKyung-Hong/Algorhythm/tree/main/프로그래머스)
 
 ## 💻 기술 스택
 **Backend**
