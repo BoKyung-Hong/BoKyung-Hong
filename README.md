@@ -29,6 +29,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-학습중-3776AB?style=flat&logo=python&logoColor=white)
 
 **Frontend** (협업 가능)
 
@@ -74,6 +75,7 @@
 - AWS S3를 활용한 이미지 업로드 및 저장 처리
 
 `Java` `Spring Boot` `JPA` `PostgreSQL` `AWS S3` `TossPayments`
+
 📎 [프로젝트 상세 보기 (Notion)](https://www.notion.so/RunRun-2fdbc07a4cf080559214f4aa433f3ddc?source=copy_link)
 
 ---
