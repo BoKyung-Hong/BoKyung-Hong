@@ -1,19 +1,21 @@
 # 👩🏻‍💻 Hong BoKyung
-> 문제를 정의하고, 안정적으로 해결하는 백엔드 개발자입니다.  
-> 사용자 경험 뒤에서 시스템의 흐름과 데이터의 일관성을 설계하는 일을 좋아합니다.
+
+> 항공사 근무, 공공기관 전산정보부 인턴을 거쳐 백엔드 개발자로 전환했습니다.  
+> 현장에서 시스템이 어떻게 쓰이는지 경험했기에, 동작하는 코드보다 **믿을 수 있는 코드**를 만드는 것에 집중합니다.
 
 ---
 
 ## 🙋‍♀️ About Me
-- Java & Spring 기반 백엔드 개발을 공부하고 있습니다.
+- Java & Spring 기반 백엔드를 개발합니다.
 - 단순 구현이 아니라 **데이터 흐름과 정합성**을 고민합니다.
 - 동시성, 트랜잭션, 예외 처리처럼 "보이지 않는 안정성"에 관심이 많습니다.
-- 꾸준함을 가장 큰 무기로 생각합니다. (CS 스터디 & 알고리즘 지속 학습 중)
+- 꾸준함을 가장 큰 무기로 생각합니다. (알고리즘 풀이 + CS 스터디 진행 중)
 
 ---
 
-## 📊 GitHub Stats
-![보경님's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoKyung-Hong&show_icons=true)
+## 🏆 Awards & Achievements
+- 🥇 멀티캠퍼스 백엔드 부트캠프 최종 프로젝트 경진대회 **최우수상** (2026.01)
+- 🌟 한국보건의료인국가시험원 **우수 인턴 선정** (2024)
 
 ---
 
@@ -29,12 +31,14 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-학습중-3776AB?style=flat&logo=python&logoColor=white)
 
 **Frontend** (협업 가능)
 
 ![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Tools**
 
@@ -49,7 +53,7 @@
 ## 📌 Project
 
 ### 🏃 [RUNRUN](https://github.com/RunRun-labs) - 러닝 크루 커뮤니티 플랫폼
-> Backend Developer (2025.12 ~ 2026.01)
+> Backend Developer (2025.12 ~ 2026.01) | 팀 프로젝트 5인 | 🥇 최우수상
 
 크루 관리, 멤버십, 결제, 포인트 시스템을 설계 및 구현했습니다.  
 기능 구현을 넘어서 **데이터 정합성과 안정성 확보**에 집중했습니다.
@@ -92,18 +96,15 @@
 [![Programmers](https://img.shields.io/badge/Programmers-문제풀이중-00C73C?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACKSURBVHgBjZIxDoAgDEVbFxfv4O4dPIl38Q6sLqQ2JCEQ/5D0JX+gLQUhxBhzALgB3EEIIUScZVkGIURx1RdCCLXW0jmHvu/RdR2cc1BKQWuNlBKEEJRSQkoBpRSEEFBKIaUE5xyEENBao+s6dF0H7z2stTDGwBgDYwyMMTDGwBgDYwyc/mWt/QC3OSWO6sVGXgAAAABJRU5ErkJggg==&logoColor=00C73C)](https://github.com/BoKyung-Hong/Algorhythm/tree/main/프로그래머스)
 
 - 실전형 문제 풀이
-- 이전 학습 과정에서 풀이
 
 📂 **Algorithm Repository**: [Algorhythm](https://github.com/BoKyung-Hong/Algorhythm)
 
 ---
 
 ## 🎯 Currently
-- CS 스터디 진행 중
-- 매일 코딩테스트 풀이 (백준 중심)
-- 아키텍처 학습 & CS 이론 스터디 중
-- Python 학습 중
-- 개인 프로젝트 진행 중
+- 코딩테스트 풀이 (백준 중심)
+- CS 스터디 & 아키텍처 학습 중
+- 개인 프로젝트 ITB(Into the Bible) 개발 중 - Spring AI + 이미지 생성 API 활용
 
 ---
 
